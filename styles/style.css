@@ -18,22 +18,19 @@ li {
   letter-spacing: 1px;
 }
 
-body {
-  width: 600px;
-  margin: 0 auto;
-  background-color: gray;
-  padding: 0 20px 20px 20px;
-  border: 5px solid black;
-}
-
 h1 {
   margin: 0;
   padding: 20px 0;
-  color: #00539f;
-  text-shadow: 3px 3px 1px black;
+  color: black;
 }
 
 img {
   display: block;
   margin: 0 auto;
+}
+
+table, th, tr, td {
+   padding: 50;
+   border: 1px solid black;
+
 }
